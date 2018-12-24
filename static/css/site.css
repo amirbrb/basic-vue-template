@@ -1,7 +1,20 @@
-.page-content{
-	position: absolute;
-	left:10px;
-	right:10px;
-	margin-top: 50px;
-	z-index: 1;
+.button-small{
+	width: 40px;
+	height: 40px;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.visible {
+	display: block;
+}
+
+.hidden {
+	display: none;
 }
